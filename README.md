@@ -7,7 +7,7 @@
 
 **Full-Stack Developer · Ingeniero en Computación · UdG CUCEI**
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1000&color=2563EB&center=true&vCenter=true&width=500&lines=Building+secure%2C+production-ready+web+apps;JAMstack+%C2%B7+Serverless+%C2%B7+REST+APIs;Security-first+%E2%80%94+CORS%2C+CSP%2C+rate+limiting;Open+to+junior+%2F+internship+opportunities)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1000&color=2563EB&center=true&vCenter=true&width=520&lines=Construyo+apps+web+listas+para+produccion;JAMstack+%C2%B7+Serverless+%C2%B7+REST+APIs;Seguridad+primero+%E2%80%94+CORS%2C+CSP%2C+rate+limiting;Disponible+para+roles+junior+%2F+practicas)](https://git.io/typing-svg)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-edson--ruiz-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/edson-ruiz)
 [![Email](https://img.shields.io/badge/Email-edsonruiz09112%40gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:edsonruiz09112@gmail.com)
@@ -17,21 +17,67 @@
 
 ---
 
-## About me
+## 🚀 Proyectos destacados
 
-Computer Engineering student at Universidad de Guadalajara (CUCEI) with hands-on production experience. I build full-stack web apps focused on security, clean architecture, and real-world deployment — not just local demos.
+### 🛒 Marketplace Universitario CUCEI
+> Plataforma e-commerce para compra y venta de recursos académicos entre estudiantes — desplegada en producción
 
-Currently doing my Servicio Social as a Full-Stack Developer, deploying JAMstack portals on Vercel with Node.js serverless endpoints, strict CORS/CSP policies, and CI/CD via GitHub Actions.
+- Arquitectura de base de datos relacional en SQL para gestión de usuarios e inventario
+- Integración de la API de PayPal como pasarela de pagos con transacciones seguras
+- Frontend responsivo con lógica de servidor en PHP
 
-- Production experience with JAMstack, serverless, and relational databases
-- Security-oriented: CORS, CSP, rate limiting, token auth, env secret isolation
-- Self-taught, results-driven, available from day one
+`PHP` `SQL` `HTML5/CSS3` `JavaScript` `PayPal API`
+
+---
+
+### 🔍 LSH Forest — Motor de Búsqueda por Similitud
+> Motor avanzado de recuperación de documentos web basado en hashing sensible a la localidad
+
+- Algoritmo MinHash para generación de firmas digitales de documentos
+- Estructura LSH Forest para búsqueda eficiente de vecinos más cercanos
+- Despliegue en la nube con alta disponibilidad en Render + Vercel
+
+`Python` `JavaScript` `MinHash` `LSH Forest` `Render` `Vercel`
+
+---
+
+### 🎓 Portal Cuerpo Académico CUCEI
+> Portal integral para gestión y exhibición de producción científica y patentes universitarias
+
+- Panel de administración seguro con operaciones CRUD completas
+- Motor de búsqueda paramétrico en tiempo real
+- Visor de PDF nativo y persistencia en JSON para lecturas de alto rendimiento
+
+`HTML5` `CSS3` `Vanilla JS` `PHP` `JSON`
+
+---
+
+### 🔐 Portal JAMstack UdG *(Servicio Social 2026 — en producción)*
+> Portal universitario actualmente activo con enfoque en seguridad y CI/CD
+
+- Arquitectura JAMstack alojada en Vercel con endpoints Node.js serverless
+- Seguridad reforzada: CORS, CSP, rate limiting por IP, autenticación por token
+- Pipeline CI/CD vía GitHub con secretos aislados en variables de entorno
+
+`Node.js` `Vercel` `GitHub Actions` `JAMstack` `Security`
+
+---
+
+## Sobre mí
+
+Estudiante de Ingeniería en Computación en la UdG CUCEI con experiencia real en producción. Construyo aplicaciones web full-stack enfocadas en seguridad, arquitectura limpia y despliegue real, no solo demos locales.
+
+Actualmente en Servicio Social como Desarrollador Full Stack desplegando portales JAMstack en Vercel con endpoints serverless, políticas estrictas de CORS/CSP y CI/CD via GitHub.
+
+- Experiencia en producción con JAMstack, serverless y bases de datos relacionales
+- Orientado a seguridad: CORS, CSP, rate limiting, autenticación por token, aislamiento de secretos
+- Autodidacta, enfocado a resultados, disponible desde el primer día
 
 ---
 
 ## Tech stack
 
-**Languages**
+**Lenguajes**
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
@@ -39,7 +85,7 @@ Currently doing my Servicio Social as a Full-Stack Developer, deploying JAMstack
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
 
-**Backend & Databases**
+**Backend & Bases de datos**
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
 ![Serverless](https://img.shields.io/badge/Serverless-FD5750?style=flat&logo=serverless&logoColor=white)
@@ -53,7 +99,7 @@ Currently doing my Servicio Social as a Full-Stack Developer, deploying JAMstack
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![Vanilla JS](https://img.shields.io/badge/Vanilla_JS-F7DF1E?style=flat&logo=javascript&logoColor=black)
 
-**DevOps & Tools**
+**DevOps & Herramientas**
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
@@ -62,53 +108,7 @@ Currently doing my Servicio Social as a Full-Stack Developer, deploying JAMstack
 
 ---
 
-## Featured projects
-
-### Marketplace Universitario CUCEI
-> E-commerce platform for academic resources — buy & sell among students
-
-- Relational database architecture (SQL) for users and inventory
-- PayPal API integration for secure payment processing
-- Responsive frontend with PHP backend
-
-`PHP` `SQL` `HTML5/CSS3` `JavaScript` `PayPal API`
-
----
-
-### LSH Forest — Similarity Search Engine
-> Advanced document retrieval system based on locality-sensitive hashing
-
-- MinHash algorithm for digital signature generation
-- LSH Forest data structure for nearest-neighbor search
-- Cloud deployment with high availability on Render + Vercel
-
-`Python` `JavaScript` `MinHash` `LSH Forest` `Render` `Vercel`
-
----
-
-### Portal Cuerpo Académico CUCEI
-> Scientific production and patents management portal
-
-- Secure CRUD admin panel
-- Real-time parametric search engine
-- Native PDF viewer, JSON-based data persistence for fast reads
-
-`HTML5` `CSS3` `Vanilla JS` `PHP` `JSON`
-
----
-
-### JAMstack Portal UdG *(Servicio Social 2026)*
-> Production university portal — currently live
-
-- JAMstack architecture hosted on Vercel with Node.js serverless endpoints
-- Security hardening: CORS, CSP, per-IP rate limiting, token authentication
-- CI/CD pipeline via GitHub, secrets isolated via environment variables
-
-`Node.js` `Vercel` `GitHub Actions` `JAMstack` `Security`
-
----
-
-## GitHub stats
+## Estadísticas
 
 <div align="center">
 
@@ -120,18 +120,18 @@ Currently doing my Servicio Social as a Full-Stack Developer, deploying JAMstack
 
 ---
 
-## Currently
+## Actualmente
 
-- Finishing **Ingeniería en Computación** at UdG CUCEI (2022–present)
-- Deployed production JAMstack portal for university department (2026)
-- Backend Junior internship at Tech Solutions (Jan 2024–present): server logic, DB normalization, MySQL/PostgreSQL
-- Open to **junior / internship** roles in full-stack, backend, or security-focused web development
-- English: **B1 intermediate** (technical reading/writing, improving conversational)
+- Cursando **Ingeniería en Computación** en UdG CUCEI (2022–presente)
+- Portal JAMstack universitario desplegado en producción (2026)
+- Prácticas como Desarrollador Backend Junior en Tech Solutions (Ene 2024–presente): lógica de servidor, normalización de BD, MySQL/PostgreSQL
+- Disponible para roles **junior / prácticas** en desarrollo full-stack, backend o seguridad web
+- Inglés **B1 intermedio** — lectura y escritura técnica
 
 ---
 
 <div align="center">
 
-*Building things that actually work in production.*
+*Construyendo cosas que realmente funcionan en producción.*
 
 </div>
