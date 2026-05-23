@@ -112,9 +112,9 @@ Actualmente en Servicio Social como Desarrollador Full Stack desplegando portale
 
 <div align="center">
 
-![Edson's GitHub Stats](https://github-readme-stats.vercel.app/api?username=edsonruiz09112&show_icons=true&theme=default&hide_border=true&count_private=true&include_all_commits=true)
+[![GitHub Streak](https://streak-stats.demolab.com?user=edsonruiz09112&theme=default&hide_border=true&locale=es&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=edsonruiz09112&layout=compact&theme=default&hide_border=true&langs_count=6)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=edsonruiz09112&layout=compact&hide_border=true&langs_count=6&cache_seconds=1800)](https://github.com/edsonruiz09112)
 
 </div>
 
